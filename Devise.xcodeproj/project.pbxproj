@@ -1159,7 +1159,7 @@
 					};
 					3AA8B35D1A24DA0000166927 = {
 						CreatedOnToolsVersion = 6.1;
-						DevelopmentTeam = SK8PDF7SG9;
+						DevelopmentTeam = 56H6WYAD23;
 					};
 					3AA8B3681A24DA0000166927 = {
 						CreatedOnToolsVersion = 6.1;
@@ -1619,6 +1619,8 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				CODE_SIGN_RESOURCE_RULES_PATH = "$(SDKROOT)/ResourceRules.plist";
+				DEVELOPMENT_TEAM = 56H6WYAD23;
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Frameworks",
@@ -1732,6 +1734,8 @@
 				CODE_SIGN_IDENTITY = "iPhone Developer";
 				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Distribution";
 				CODE_SIGN_RESOURCE_RULES_PATH = "$(SDKROOT)/ResourceRules.plist";
+				DEVELOPMENT_TEAM = 56H6WYAD23;
+				ENABLE_BITCODE = NO;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PROJECT_DIR)/Frameworks",
